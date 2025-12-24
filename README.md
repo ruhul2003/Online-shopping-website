@@ -1,2 +1,2 @@
-# Online-shopping-website
+# E-Commerce
 This is my first repository.
